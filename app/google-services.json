@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777481667459",
+    "project_id": "restapp-ce6c0",
+    "storage_bucket": "restapp-ce6c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777481667459:android:1460410ae218ff37c26cb6",
+        "android_client_info": {
+          "package_name": "com.restapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777481667459-t8485leljdkgqjlaugf83hfq84edpls9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0juw4s6F2Pba8h8GiMJWk5wifVnOL3DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777481667459-t8485leljdkgqjlaugf83hfq84edpls9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
